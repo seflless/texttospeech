@@ -1,0 +1,27 @@
+{
+  "name": "texttospeech",
+  "version": "0.1.0",
+  "description": "Text to Speech (Pure Client Side)",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francoislaberge/texttospeech.git"
+  },
+  "keywords": [
+    "tts",
+    "voice",
+    "speech"
+  ],
+  "author": "Francois Laberge <francoislaberge@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/francoislaberge/texttospeech/issues"
+  },
+  "homepage": "https://github.com/francoislaberge/texttospeech#readme"
+}

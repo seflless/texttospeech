@@ -1,0 +1,11 @@
+distsource
+docs
+espeak-data
+platforms
+src
+AUTHORS
+ChangeLog.txt
+*.html
+License.txt
+ReadMe
+README.markdown
