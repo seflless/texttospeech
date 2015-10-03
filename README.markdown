@@ -9,7 +9,7 @@ Enables text-to-speech on the web using only JavaScript and HTML5.
 
 Note: An active fork of this project is at
 
-  https://github.com/katsuyan/speak.js
+  https://github.com/kripken/speak.js
   
   Check it out!
 
